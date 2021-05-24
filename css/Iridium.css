@@ -530,6 +530,7 @@ ytd-playlist-renderer:hover .iri-pop-up-player,
 ytd-radio-renderer:hover .iri-pop-up-player,
 ytd-video-renderer:hover .iri-pop-up-player,
 ytd-rich-item-renderer:hover .iri-pop-up-player,
+#thumbnail:hover .iri-pop-up-player,
 .ytd-thumbnail-0:hover .iri-pop-up-player,
 .ytd-playlist-thumbnail-0:hover .iri-pop-up-player {
     opacity        : .8 !important;
