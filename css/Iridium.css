@@ -517,11 +517,19 @@ yt-img-shadow:not(.ytd-channel-renderer) .iri-add-to-blacklist {
     z-index          : 1;
 }
 
+ytd-compact-movie-renderer:hover .iri-pop-up-player,
+ytd-compact-playlist-renderer:hover .iri-pop-up-player,
 ytd-compact-radio-renderer:hover .iri-pop-up-player,
 ytd-compact-video-renderer:hover .iri-pop-up-player,
+ytd-grid-movie-renderer:hover .iri-pop-up-player,
+ytd-grid-playlist-renderer:hover .iri-pop-up-player,
+ytd-grid-radio-renderer:hover .iri-pop-up-player,
+ytd-grid-video-renderer:hover .iri-pop-up-player,
+ytd-movie-renderer:hover .iri-pop-up-player,
 ytd-playlist-renderer:hover .iri-pop-up-player,
-ytd-rich-item-renderer:hover .iri-pop-up-player,
+ytd-radio-renderer:hover .iri-pop-up-player,
 ytd-video-renderer:hover .iri-pop-up-player,
+ytd-rich-item-renderer:hover .iri-pop-up-player,
 .ytd-thumbnail-0:hover .iri-pop-up-player,
 .ytd-playlist-thumbnail-0:hover .iri-pop-up-player {
     opacity        : .8 !important;
