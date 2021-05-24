@@ -1,0 +1,106 @@
+{
+    "language": "日本語",
+    "section_list": {
+        "general": "一般",
+        "video": "動画",
+        "settings": "設定"
+    },
+    "section_titles": {
+        "general": "一般設定",
+        "video": "動画設定",
+        "settings": "Iridium 設定"
+    },
+    "sub_section_titles": {
+        "general": "一般",
+        "language": "言語",
+        "layout": "体裁",
+        "player": "プレイヤー",
+        "settings": "設定",
+        "thumbnails": "サムネイル"
+    },
+    "iridium_api": {
+        "settings_button": "Iridium",
+        "feature_link": "これは何をするもの？"
+    },
+    "welcome_box": {
+        "thank_you": "Iridium のインストールありがとう!",
+        "settings_instruction": "ページの右上隅にある▷をクリックすると設定画面に入れます。",
+        "features_instruction": "完全な一覧は下のリンク先へどうぞ:",
+        "features_link": "機能一覧",
+        "button_close": "閉じる"
+    },
+    "default_logo_page": {
+        "label": "YouTubeロゴで飛ぶページの初期値:",
+        "options": [
+            "ホーム",
+            "急上昇",
+            "登録チャンネル"
+        ]
+    },
+    "square_avatars": {
+        "label": "投稿者アイコンを正方形にする"
+    },
+    "improved_logo": {
+        "label": "YouTubeロゴを良くする"
+    },
+    "popup_player": {
+        "label": "別画面での再生を有効にする",
+        "button_add_title": "Pop-up"
+    },
+    "player_quick_controls": {
+        "label": "クイック操作を有効にする",
+        "button_pop_up_player": "別画面で再生する",
+        "button_screen_shot": "スクリーンショット",
+        "button_thumbnails": "サムネイル",
+        "thumbnails_title": "クリックでダウンロード\n右クリックでオプション",
+        "screen_shot_title": "右クリックでオプション"
+    },
+    "comments_visibility": {
+        "label": "コメント欄:",
+        "button_show_comments": "コメントを表示する",
+        "options": [
+            "表示する",
+            "隠す",
+            "除去する"
+        ]
+    },
+    "shortcuts_always_active": {
+        "label": "再生画面のショートカットは常に有効"
+    },
+    "player_volume_wheel": {
+        "label": "マウスホイールで音量変更"
+    },
+    "player_always_visible": {
+        "label": "スクロールしても動画を表示させたままにする"
+    },
+    "player_hide_end_screen": {
+        "label": "動画終了後のカードがマウスを載せると隠れる"
+    },
+    "iridium_dark_mode": {
+        "label": "暗色"
+    },
+    "iridium_user_settings": {
+        "button_save": "保存",
+        "button_close": "閉じる",
+        "button_export": "書き出し",
+        "button_import": "読み込み",
+        "button_reset": "初期化",
+        "placeholder": "新しい設定をここに貼り付けてください",
+        "confirm_reset": "設定を白紙に戻そうとしていますが、バックアップは済みましたか？\n\n進めて良いですか？\n\n",
+        "reset_success": "設定は初期化されました。\n\nページを更新すると変更が反映されます。\n\n",
+        "confirm_import": "現在の設定を上書きしようとしていますが、バックアップは済みましたか？\n\n進めて良いですか？\n\n",
+        "import_success": "設定は無事に読み込まれました。\n\nページを更新すると変更が反映されます。\n\n",
+        "import_error": "誤りがあるため設定は読み込まれませんでした。\n\n"
+    },
+    "iridium_custom_language": {
+        "label": "言語設定を変更する"
+    },
+    "iridium_language": {
+        "button_save": "保存",
+        "button_close": "閉じる",
+        "confirm_save": "拡張機能の言語設定を変更しようとしています。\n\n進めて良いですか？\n\n",
+        "save_success": "新しい言語設定は無事に保存されました。\n\nページを更新すると変更が反映されます。\n\n",
+        "save_error": "誤りがあるため新しい言語設定は保存されませんでした。\n\n"
+    },
+    "code": "ja"
+}
